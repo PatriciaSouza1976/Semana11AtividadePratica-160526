@@ -4,32 +4,29 @@ O site apresenta pontos turísticos, parques, museus e bares de Belo Horizonte, 
 
 ---
 
-Informações da Aluna
+#Informações da Aluna
 
-- Nome: Patricia de Souza
-- Matrícula: 901262
+Nome: Patricia de Souza  
+Matrícula: 901262  
 
 ---
 
 Funcionalidades
 
-O site possui:
-
-- Página inicial dinâmica
-- Cards criados com JavaScript
-- Página de detalhes
-- Navegação usando Query String
+-Página inicial dinâmica  
+-Cards criados com JavaScript  
+-Página de detalhes  
+-Navegação usando Query String (?id=)  
+-Uso de JSON para armazenar dados  
 
 ---
 
-Prints do Projeto
+ Prints do Projeto
 
 Página Inicial
-
 ![Home](assets/imagem/home.png)
 
 Página de Detalhes
-
 ![Detalhes](assets/imagem/detalhe.png)
 
 ---
